@@ -2640,6 +2640,21 @@
     "standard": "none"
   }]
 }, {
+  "name": "Unichain",
+  "chain": "ETH",
+  "rpc": [],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "infoURL": "https://unichain.org",
+  "shortName": "unichain",
+  "chainId": 130,
+  "networkId": 130,
+  "status": "incubating"
+}, {
   "name": "Engram Testnet",
   "chain": "tGRAM",
   "icon": "engram",
@@ -8094,7 +8109,7 @@
   "name": "Taraxa Mainnet",
   "chain": "Tara",
   "icon": "taraxa",
-  "rpc": ["https://rpc.mainnet.taraxa.io/"],
+  "rpc": ["https://rpc.mainnet.taraxa.io/", "https://ws.mainnet.taraxa.io"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Tara",
@@ -8114,7 +8129,7 @@
   "name": "Taraxa Testnet",
   "chain": "Tara",
   "icon": "taraxa",
-  "rpc": ["https://rpc.testnet.taraxa.io/"],
+  "rpc": ["https://rpc.testnet.taraxa.io/", "https://ws.testnet.taraxa.io"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Tara",
@@ -10827,6 +10842,29 @@
     "name": "Bobabase block explorer",
     "url": "https://blockexplorer.bobabase.boba.network",
     "standard": "none"
+  }]
+}, {
+  "name": "Unichain Sepolia Testnet",
+  "chain": "ETH",
+  "rpc": ["https://sepolia.unichain.org"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "infoURL": "https://unichain.org",
+  "shortName": "unichain-sep",
+  "chainId": 1301,
+  "networkId": 1301,
+  "explorers": [{
+    "name": "Unichain Sepolia Testnet Explorer",
+    "url": "https://unichain-sepolia.blockscout.com",
+    "standard": "EIP3091"
+  }, {
+    "name": "Unichain Sepolia Testnet Explorer",
+    "url": "https://sepolia.uniscan.xyz",
+    "standard": "EIP3091"
   }]
 }, {
   "name": "Dos Fuji Subnet",
@@ -22612,6 +22650,7 @@
   "explorers": [{
     "name": "MFEV CHAIN",
     "url": "https://mfevscan.com",
+    "icon": "mfev",
     "standard": "EIP3091"
   }]
 }, {
@@ -29631,7 +29670,7 @@
 }, {
   "name": "Automata Mainnet",
   "chain": "Automata Mainnet",
-  "rpc": [],
+  "rpc": ["https://rpc.ata.network", "https://automata-mainnet.alt.technology/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "ATA",
@@ -29643,7 +29682,11 @@
   "chainId": 65536,
   "networkId": 65536,
   "icon": "automata",
-  "explorers": []
+  "explorers": [{
+    "name": "Automata Explorer",
+    "url": "https://explorer.ata.network",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "Creator Chain Testnet",
   "chain": "creatorchain",
@@ -30448,8 +30491,8 @@
   "rpc": ["https://rpc-amoy.polygon.technology", "https://polygon-amoy-bor-rpc.publicnode.com", "wss://polygon-amoy-bor-rpc.publicnode.com"],
   "faucets": ["https://faucet.polygon.technology/"],
   "nativeCurrency": {
-    "name": "MATIC",
-    "symbol": "MATIC",
+    "name": "POL",
+    "symbol": "POL",
     "decimals": 18
   },
   "infoURL": "https://polygon.technology/",
@@ -34457,6 +34500,22 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "CheeseChain",
+  "title": "CheeseChain",
+  "chain": "CHEESE",
+  "rpc": ["https://rpc.cheesechain.xyz"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "CHEESE",
+    "symbol": "CHEESE",
+    "decimals": 18
+  },
+  "infoURL": "https://cheesechain.xyz",
+  "shortName": "CheeseChain",
+  "chainId": 383353,
+  "networkId": 383353,
+  "icon": "cheesechain"
+}, {
   "name": "Tipboxcoin Mainnet",
   "chain": "TPBX",
   "icon": "tipboxcoinIcon",
@@ -36600,7 +36659,7 @@
 }, {
   "name": "Automata Testnet",
   "chain": "Automata Testnet",
-  "rpc": ["https://automata-testnet.alt.technology"],
+  "rpc": ["https://rpc-testnet.ata.network", "https://automata-testnet.alt.technology"],
   "faucets": [],
   "nativeCurrency": {
     "name": "ATA",
@@ -36614,7 +36673,7 @@
   "icon": "automata",
   "explorers": [{
     "name": "Automata Testnet Explorer",
-    "url": "https://automata-testnet-explorer.alt.technology",
+    "url": "https://explorer-testnet.ata.network",
     "standard": "EIP3091"
   }]
 }, {
@@ -39533,6 +39592,34 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "Lumia Mainnet",
+  "shortName": "lumia-mainnet",
+  "title": "Lumia Mainnet",
+  "chain": "ETH",
+  "icon": "lumia",
+  "rpc": ["https://mainnet-rpc.lumia.org"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Lumia",
+    "symbol": "LUMIA",
+    "decimals": 18
+  },
+  "infoURL": "https://lumia.org",
+  "chainId": 994873017,
+  "networkId": 994873017,
+  "explorers": [{
+    "name": "Lumia Mainnet Explorer",
+    "url": "https://explorer.lumia.org",
+    "standard": "EIP3091"
+  }],
+  "parent": {
+    "type": "L2",
+    "chain": "eip155-1",
+    "bridges": [{
+      "url": "https://bridge.lumia.org"
+    }]
+  }
+}, {
   "name": "Zora Sepolia Testnet",
   "chain": "ETH",
   "rpc": ["https://sepolia.rpc.zora.energy"],
@@ -39903,6 +39990,35 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "Haust Testnet",
+  "title": "Haust Testnet",
+  "chain": "Haust-testnet",
+  "rpc": ["https://rpc-test.haust.network"],
+  "faucets": ["https://haust-testnet-faucet.eu-north-2.gateway.fm"],
+  "nativeCurrency": {
+    "name": "HAUST",
+    "symbol": "HAUST",
+    "decimals": 18
+  },
+  "infoURL": "https://haust.network/",
+  "shortName": "hst-test",
+  "chainId": 1570754601,
+  "networkId": 1570754601,
+  "icon": "haust",
+  "explorers": [{
+    "name": "blockscout",
+    "url": "https://haust-testnet-blockscout.eu-north-2.gateway.fm",
+    "icon": "haust",
+    "standard": "EIP3091"
+  }],
+  "parent": {
+    "type": "L2",
+    "chain": "eip155-11155111",
+    "bridges": [{
+      "url": "https://haust-testnet-bridge.eu-north-2.gateway.fm"
+    }]
+  }
+}, {
   "name": "Harmony Mainnet Shard 0",
   "chain": "Harmony",
   "rpc": ["https://api.harmony.one", "https://a.api.s0.t.hmny.io", "https://api.s0.t.hmny.io", "https://rpc.ankr.com/harmony", "https://harmony.api.onfinality.io/public", "https://1rpc.io/one", "https://harmony-0.drpc.org", "wss://harmony-0.drpc.org"],
@@ -40158,6 +40274,40 @@
     "url": "https://explorer.rarichain.org",
     "standard": "EIP3091"
   }]
+}, {
+  "name": "Lumia Testnet",
+  "shortName": "lumiatestnet",
+  "title": "Lumia Testnet",
+  "chain": "ETH",
+  "icon": "lumia",
+  "rpc": ["https://testnet-rpc.lumia.org"],
+  "faucets": ["https://testnet-faucet.lumia.org"],
+  "nativeCurrency": {
+    "name": "Lumia",
+    "symbol": "LUMIA",
+    "decimals": 18
+  },
+  "features": [{
+    "name": "EIP155"
+  }, {
+    "name": "EIP1559"
+  }],
+  "infoURL": "https://lumia.org",
+  "chainId": 1952959480,
+  "networkId": 1952959480,
+  "explorers": [{
+    "name": "Lumia Testnet Explorer",
+    "url": "https://testnet-explorer.lumia.org",
+    "icon": "lumia",
+    "standard": "EIP3091"
+  }],
+  "parent": {
+    "type": "L2",
+    "chain": "eip155-1",
+    "bridges": [{
+      "url": "https://testnet-bridge.lumia.org"
+    }]
+  }
 }, {
   "name": "DataHopper",
   "chain": "HOP",
