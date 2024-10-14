@@ -4168,8 +4168,8 @@
     "symbol": "SYS",
     "decimals": 18
   },
-  "rpc": ["https://rpc.rollux.com", "wss://rpc.rollux.com/wss", "https://rpc.ankr.com/rollux", "https://rollux.rpc.syscoin.org", "wss://rollux.rpc.syscoin.org/wss"],
-  "faucets": ["https://rollux.id/faucetapp"],
+  "rpc": ["https://rpc.rollux.com", "wss://rpc.rollux.com/wss", "https://rpc.ankr.com/rollux"],
+  "faucets": ["https://rollux.id/faucet"],
   "infoURL": "https://rollux.com"
 }, {
   "name": "MetaChain Mainnet",
@@ -5263,6 +5263,19 @@
   "rpc": ["https://rinia-rpc1.thefirechain.com"],
   "faucets": ["https://faucet.thefirechain.com"],
   "infoURL": "https://thefirechain.com"
+}, {
+  "name": "SlerfChain Mainnet",
+  "chainId": 918,
+  "shortName": "SlerfChain-Mainnet",
+  "networkId": 918,
+  "nativeCurrency": {
+    "name": "WSLERF",
+    "symbol": "WSLERF",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.slerfchain.xyz"],
+  "faucets": [],
+  "infoURL": "https://slerfchain.xyz"
 }, {
   "name": "Mode Testnet",
   "chainId": 919,
@@ -21692,7 +21705,7 @@
     "symbol": "GHST",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://geist-polter.g.alchemy.com/public"],
   "faucets": [],
   "infoURL": "https://playongeist.com"
 }, {
@@ -22280,6 +22293,19 @@
   "rpc": ["https://rpc-testnet.treasure.lol/http", "wss://rpc-testnet.treasure.lol/ws"],
   "faucets": ["https://portal.treasure.lol/faucet"],
   "infoURL": "https://portal.treasure.lol"
+}, {
+  "name": "Treasure Topaz",
+  "chainId": 978658,
+  "shortName": "Topaz",
+  "networkId": 978658,
+  "nativeCurrency": {
+    "name": "Testnet MAGIC",
+    "symbol": "MAGIC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.topaz.treasure.lol", "wss://rpc.topaz.treasure.lol/ws"],
+  "faucets": ["https://app.treasure.lol/chain/faucet", "https://thirdweb.com/treasure-topaz"],
+  "infoURL": "https://app.treasure.lol"
 }, {
   "name": "Forma",
   "chainId": 984122,
