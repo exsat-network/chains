@@ -415,6 +415,14 @@
     "format": "png"
   }]
 }, {
+  "name": "tiktrix",
+  "icons": [{
+    "url": "ipfs://QmQW8DuuyxjdLWAPq3V9zSfdAimaStptZ4gxZ3aEviAafc",
+    "width": 1280,
+    "height": 1280,
+    "format": "png"
+  }]
+}, {
   "name": "btcprotocol",
   "icons": [{
     "url": "ipfs://QmYgFtJjxUgUDr3L9fsXvgzUTanrzcNj2e6RJ8VmkwpcuB",
@@ -741,6 +749,14 @@
     "width": 1016,
     "height": 1016,
     "format": "png"
+  }]
+}, {
+  "name": "game7testnet",
+  "icons": [{
+    "url": "ipfs://Qmbk23C5vZpGBfq8SuPXR1PrfWER2m8w6LGqBkhXAvxia1",
+    "width": 40,
+    "height": 40,
+    "format": "svg"
   }]
 }, {
   "name": "jaihoIcon",
@@ -1407,6 +1423,14 @@
     "format": "png"
   }]
 }, {
+  "name": "nero",
+  "icons": [{
+    "url": "ipfs://QmdkENLFjLRNts2kBspNbM3q84WjG5Yf7C8amVVr7FCQrp",
+    "width": 521,
+    "height": 521,
+    "format": "png"
+  }]
+}, {
   "name": "plume",
   "icons": [{
     "url": "ipfs://QmNUpqkYWYJoDXKUpZ8FVbGyN6HCwxYonKNAieCf2oTzGn",
@@ -1756,6 +1780,14 @@
     "url": "ipfs://QmQ6mjKWJQ5WmFiJzcqJnuHWZK53nQYJB1SnMQZEqgr74h",
     "width": 250,
     "height": 250,
+    "format": "png"
+  }]
+}, {
+  "name": "ethernity",
+  "icons": [{
+    "url": "ipfs://bafkreihditrs2v6atsj2lzq2auchqiujg2d7lc2owot6tvj7rxe6ikgnv4",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -2287,6 +2319,14 @@
     "format": "png"
   }]
 }, {
+  "name": "callistonetwork",
+  "icons": [{
+    "url": "ipfs://QmQbn4Jr6PLSsgFo1eALKQ7eMfndJJJ4B15a9yj5G5vMLC",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  }]
+}, {
   "name": "tipboxcoinIcon",
   "icons": [{
     "url": "ipfs://QmbiaHnR3fVVofZ7Xq2GYZxwHkLEy3Fh5qDtqnqXD6ACAh",
@@ -2687,6 +2727,14 @@
     "format": "png"
   }]
 }, {
+  "name": "sorianTestnet",
+  "icons": [{
+    "url": "ipfs://QmZmrcLYFtPZb36MZ1DyQpR7Lw8CWPP7x3Bx2anCjVWfMR",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "iChain",
   "icons": [{
     "url": "ipfs://QmcumhDxUyoLTHkcMKgPqkpGnnjwSTqE2KGFnDXXFY8mMo",
@@ -3039,6 +3087,14 @@
     "format": "png"
   }]
 }, {
+  "name": "stenix",
+  "icons": [{
+    "url": "ipfs://QmVM1zLyWDZYyje5qWWfDdve1fmrDm69J9pSKhivb1zkCH",
+    "width": 1200,
+    "height": 1200,
+    "format": "png"
+  }]
+}, {
   "name": "blx",
   "icons": [{
     "url": "ipfs://QmXM7XiLdSxhCub8MLSSo2J9V2qAkTcwdAGxcT57kurUzg",
@@ -3316,6 +3372,14 @@
     "url": "ipfs://QmSxXjvWng3Diz4YwXDV2VqSPgMyzLYBNfkjJcr7rzkxom",
     "width": 400,
     "height": 400,
+    "format": "png"
+  }]
+}, {
+  "name": "stenscan",
+  "icons": [{
+    "url": "ipfs://QmVM1zLyWDZYyje5qWWfDdve1fmrDm69J9pSKhivb1zkCH",
+    "width": 1200,
+    "height": 1200,
     "format": "png"
   }]
 }, {
@@ -3911,6 +3975,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "arena-z",
+  "icons": [{
+    "url": "ipfs://bafkreic2vglaqxdbk5u7uw4vgksxri5xcbrnlysam57dsob2uvr33dzoma",
+    "width": 1000,
+    "height": 1000,
+    "format": "png"
+  }]
+}, {
   "name": "jbc",
   "icons": [{
     "url": "ipfs://QmWvTUSCcQ17mDiKg3w1X5nW3q4wZGuVsZ9vwzJ8S9oCns",
@@ -4351,6 +4423,14 @@
     "format": "png"
   }]
 }, {
+  "name": "astrasepolia",
+  "icons": [{
+    "url": "ipfs://QmQW8DuuyxjdLWAPq3V9zSfdAimaStptZ4gxZ3aEviAafc",
+    "width": 1280,
+    "height": 1280,
+    "format": "png"
+  }]
+}, {
   "name": "toronet",
   "icons": [{
     "url": "ipfs://QmciSvgLatP6jhgdazuiyD3fSrhipfAN7wC943v1qxcrpv",
@@ -4469,6 +4549,14 @@
     "width": 700,
     "height": 495,
     "format": "png"
+  }]
+}, {
+  "name": "game7",
+  "icons": [{
+    "url": "ipfs://Qmbk23C5vXpGBfq8SuPXR1PrfWER2m8w6LGqBkhXAvxia9",
+    "width": 40,
+    "height": 40,
+    "format": "svg"
   }]
 }, {
   "name": "chilizspicy",
@@ -4860,6 +4948,14 @@
     "url": "ipfs://bafkreig52paynhccs4o5ew6f7mk3xoqu2bqtitmfvlgnwarh2pm33gbdrq",
     "width": 128,
     "height": 128,
+    "format": "png"
+  }]
+}, {
+  "name": "sorian",
+  "icons": [{
+    "url": "ipfs://QmZmrcLYFtPZb36MZ1DyQpR7Lw8CWPP7x3Bx2anCjVWfMR",
+    "width": 500,
+    "height": 500,
     "format": "png"
   }]
 }, {

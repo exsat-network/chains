@@ -1,11 +1,11 @@
 {
-  "name": "exSat Mainnet",
+  "name": "exSat Network",
   "chain": "exSat",
   "icon": "exsat",
   "rpc": ["https://evm.exsat.network"],
   "faucets": [],
   "nativeCurrency": {
-    "name": "Bitcoin",
+    "name": "BTC",
     "symbol": "BTC",
     "decimals": 18
   },
